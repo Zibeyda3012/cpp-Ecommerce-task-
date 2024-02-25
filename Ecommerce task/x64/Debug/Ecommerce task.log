@@ -1,0 +1,3 @@
+﻿  Ecommerce task.cpp
+C:\Users\Zibeyde\source\repos\Ecommerce task\Ecommerce task\AllFunctions.h(185,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Ecommerce task.vcxproj -> C:\Users\Zibeyde\source\repos\Ecommerce task\x64\Debug\Ecommerce task.exe
